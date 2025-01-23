@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Aplikasi Streamlit Sederhana"
+git branch -M main
+git remote add origin https://github.com/AbdoelAdjiez/streamlit-basic-app.git
+git push -u origin main
